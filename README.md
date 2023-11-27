@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sanakhuram
-- 👀 I’m interested in CSS HTML UX UI JAVA
 - 🌱 I’m currently taking a Front End developer course at Noroff 
 - 💞️ I’m looking to collaborate on designing
 - 📫 How to reach me sana.khuram.baig@gmail.com
