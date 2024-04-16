@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sana
 - 🌱 I am a student at Noroff Education enrolled to study front-end development.
-- 💞️ I’ am a Miniature Painter , iam exicted to create new designs.
+- 💞️ I am exicted to create new designs.
 - 📫 How to reach me sana.khuram.baig@gmail.com
 
 <!---
