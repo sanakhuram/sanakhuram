@@ -14,9 +14,12 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 ### 💡 A Little About Me:
 
 - 🌸 I’m Sana, a front-end developer who loves blending art with technology.
-- 🌿 Currently exploring API's in JavaSript, accessibility best practices.
-- 🎨 When I'm not coding, you'll often find me painting landscapes or doodling—art is my favorite way to unwind and stay creative.
-- 💖 Passionate about creating intuitive, user-centered experiences that are as functional as they are beautiful.
+- 🎨 I hold a Bachelor of Fine Arts (BFA) in Miniature Painting and a Master's in Interior Design—my artistic background heavily influences my design choices in web development.
+- 🇳🇴 Originally from Pakistan, I moved to Norway and transitioned from a design career to front-end development, combining my love for creativity and coding. I'm loving every bit of this exciting new chapter!
+- 🌿 Currently exploring APIs in JavaScript and accessibility best practices to ensure inclusive and seamless user experiences.
+- 🖌️ When I'm not coding, you'll often find me painting landscapes or creating miniatures—art is still my favorite way to unwind and stay inspired.
+- 🎧 Music helps fuel my creativity while coding.
+- 💖 Passionate about creating intuitive, user-centered web experiences that are as functional as they are beautiful.
 
 ### 🛠️ Tech Stack:
 
@@ -44,12 +47,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 
 - 🎬 **[Square Eyes](https://sanakhuram.github.io/squareEyes-js/)**  
   A movie e-commerce platform with an intuitive user interface designed in **Figma** and developed using **vanilla JavaScript** for seamless API integration and cart functionality.
-
-
-### 🌟 Fun Facts:
-- 💡 I love exploring new design trends and enjoy sketching in my free time.
-- 🎧 Music helps fuel my creativity while coding.
-- 📚 Always learning something new.
 
 
 ### 📫 Let's Connect:
