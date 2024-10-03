@@ -12,11 +12,10 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 
 
 ### 💡 A Little About Me:
-- 🔥 I’m Sana, a front-end developer who loves blending art with technology.
-- 🌿 Currently exploring new front-end frameworks and accessibility best practices.
-- 💖 I’m passionate about design and excited to create intuitive user experiences.
-  
-
+-🌸 I’m Sana, a front-end developer who loves blending art with technology.
+-🌿 Currently exploring new front-end frameworks and accessibility best practices.
+-🎨 When I'm not coding, you'll often find me painting landscapes or doodling—art is my favorite way to unwind and stay creative.
+-💖 Passionate about creating intuitive, user-centered experiences that are as functional as they are beautiful.
 
 ### 🛠️ Tech Stack:
 
