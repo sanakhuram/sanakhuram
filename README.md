@@ -1,8 +1,6 @@
 
 # 🌟 Hi there, I'm Sana! 👋
 
-![Banner]()
-
 🎨 Front-End Developer | 🌱 Constant Learner | 🚀 Creativity Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web designs. I'm currently studying **Front-End Development** at **Noroff Education** and working on exciting projects that showcase my love for creative design and coding. Check out my portfolio below! 👇
