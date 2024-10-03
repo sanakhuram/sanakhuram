@@ -4,19 +4,19 @@
 
 Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web designs. I'm currently studying **Front-End Development** at **Noroff Education** and working on exciting projects that showcase my love for creative design and coding. Check out my portfolio below! 👇
 
--
+
 
 ### 🌐 My Portfolio
 [🚀 Visit My Portfolio](https://your-portfolio-link-here.com)
 
--
+
 
 ### 💡 A Little About Me:
 - 🔥 I’m Sana, a front-end developer who loves blending art with technology.
 - 🌿 Currently exploring new front-end frameworks and accessibility best practices.
 - 💖 I’m passionate about design and excited to create intuitive user experiences.
   
--
+
 
 ### 🛠️ Tech Stack:
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
 </div>
 
----
+
 
 ### ✨ Featured Projects:
 
@@ -38,13 +38,12 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 - 🎬 **[Square Eyes](https://sanakhuram.github.io/squareEyes-js/)**  
   A movie e-commerce platform with an intuitive user interface designed in **Figma** and developed using **vanilla JavaScript** for seamless API integration and cart functionality.
 
--
+
 ### 🌟 Fun Facts:
 - 💡 I love exploring new design trends and enjoy sketching in my free time.
 - 🎧 Music helps fuel my creativity while coding.
 - 📚 Always learning something new.
 
--
 
 ### 📫 Let's Connect:
 
@@ -52,7 +51,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 - 💌 Reach me at: [sana.khuram.baig@gmail.com](mailto:sana.khuram.baig@gmail.com)
 - 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/sana-khuram-157ba02b7/)**
 
--
 
 ### 📊 GitHub Stats & Activity:
 
@@ -66,7 +64,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?"  />
 </div>
 
--
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" alt="Coding GIF" />
 </div>
