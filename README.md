@@ -60,7 +60,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanakhuram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" alt="Languages Graph" />
 </div>
 
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?"  />
 </div>
@@ -68,3 +67,4 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" alt="Coding GIF" />
 </div>
+
