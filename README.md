@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Figma-00FF00?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" /> <!-- Custom color for Figma -->
-  <img src="https://img.shields.io/badge/VS_Code-FF5733?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" /> <!-- Custom color for VS Code -->
+  <img src="https://img.shields.io/badge/Figma-7E60BF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" /> <!-- Custom color for Figma -->
+  <img src="https://img.shields.io/badge/VS_Code-D91656?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" /> <!-- Custom color for VS Code -->
 </div>
 
 
