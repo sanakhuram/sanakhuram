@@ -24,16 +24,15 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/Figma-00FF00?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" /> <!-- Custom color for Figma -->
+  <img src="https://img.shields.io/badge/VS_Code-FF5733?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" /> <!-- Custom color for VS Code -->
 </div>
-
 
 
 ### ✨ Featured Projects:
 
 - 🌍 **[Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)**  
-  A responsive, educational museum website designed with **HTML**, **CSS**, and **JavaScript**. Created an interactive experience to engage young minds through science!
+  A responsive, educational museum website designed with **HTML** and **CSS**. Created an interactive experience to engage young minds through science!
 
 - 🎬 **[Square Eyes](https://sanakhuram.github.io/squareEyes-js/)**  
   A movie e-commerce platform with an intuitive user interface designed in **Figma** and developed using **vanilla JavaScript** for seamless API integration and cart functionality.
