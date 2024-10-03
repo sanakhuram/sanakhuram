@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&borderRadius=15px)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&borderRadius=15px)
 
+
 ### 📂 Some Fun Projects:
 - 🌍 [Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/) - A responsive museum website built to inspire young minds.
 - 🎬 [Square Eyes](https://sanakhuram.github.io/squareEyes-js/) - A movie e-commerce platform with API integration and a modern design.
