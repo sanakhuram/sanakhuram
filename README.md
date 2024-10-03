@@ -42,10 +42,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 
 ###
 
-<img src="https://raw.githubusercontent.com/sanakhuram/sanakhuram/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?"  />
 </div>
