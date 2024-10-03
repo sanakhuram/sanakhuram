@@ -8,7 +8,7 @@
 Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web designs. I'm currently studying **Front-End Development** at **Noroff Education** and working on exciting projects that showcase my love for creative design and coding. Check out my portfolio below! 👇
 
 ### 🌐 My Portfolio
-[🚀 Visit My Portfolio](https://portfolio-sanakh.netlify.app)
+[🚀 Visit My Portfolio]()
 
 ### 💡 A Little About Me:
 - 🔥 I’m Sana, a front-end developer who loves blending art with technology.
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 - 📚 Always learning something new.
 
 ### 📫 Get in Touch:
-- 🌍 [Visit My Portfolio](https://portfolio-sanakh.netlify.app)
+- 🌍 [Visit My Portfolio]()
 - 📧 Reach me at: [sana.khuram.baig@gmail.com](mailto:sana.khuram.baig@gmail.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/sana-khuram-157ba02b7/)
 
