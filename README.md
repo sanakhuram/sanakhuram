@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Sana! 👋
+# 🌷 Hi there, I'm Sana! 👋
 
 🎨 **Front-End Developer** | 🌱 **Constant Learner** | 🚀 **Creativity Enthusiast**
 
