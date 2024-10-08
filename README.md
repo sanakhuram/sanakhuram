@@ -51,7 +51,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 
 ### 📫 Let's Connect:
 
-- 🖥️ **[Visit My Portfolio](https://your-portfolio-link-here.com)**
 - 💌 Reach me at: [sana.khuram.baig@gmail.com](mailto:sana.khuram.baig@gmail.com)
 - 📸 **[Follow on Instagram](https://www.instagram.com/sana_khuram?igsh=MTBneHhvd2d2eXB2dg==)** 
 - 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/sana-khuram-157ba02b7/)**
