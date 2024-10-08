@@ -39,10 +39,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Autocad_logo.svg/2048px-Autocad_logo.svg.png" height="40" alt="autocad logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/3ds_Max_Logo.png" height="40" alt="3dsmax logo" />
 </div>
 
 
