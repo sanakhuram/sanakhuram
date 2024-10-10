@@ -50,6 +50,8 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 - 🎬 **[Square Eyes](https://sanakhuram.github.io/squareEyes-js/)**  
   A movie e-commerce platform with an intuitive user interface designed in **Figma** and developed using **vanilla JavaScript** for seamless API integration and cart functionality.
 
+- 🎨 **[Color Muse Blog] (https://color-muse-blog-project-exam-1.netlify.app/)**
+ A responsive web application featuring a dynamic blog with an interactive carousel and grid layout for recent posts. Admin users can log in to manage content. Built with HTML, CSS, and JavaScript, with API integration for CRUD operations
 
 ### 📫 Let's Connect:
 
