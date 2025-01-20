@@ -4,8 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web designs. I'm currently studying **Front-End Development** at **Noroff Education** and working on exciting projects that showcase my love for creative design and coding. Check out my portfolio below! 👇
 
-🎯 [Check out my 2025 Resolutions!](https://my-newyear-resolutions.netlify.app/)  
-
+🌟 [New Year, New Goals!](https://my-newyear-resolutions.netlify.app/)  
 
 ### 🌐 My Portfolio
 [ ![favicon-32x32](https://github.com/user-attachments/assets/7a5977fe-ac13-4b81-93f2-1acb0188cf00) Visit My Portfolio](https://sanakhuram.netlify.app/)
