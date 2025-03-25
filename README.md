@@ -44,46 +44,30 @@ Coding with colors, coffee, and a playlist on repeat.
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
 </div>
-### ✨ Featured Projects
 
-<div align="center">
 
-<!-- Project 1 -->
-<a href="https://sanakhuram.github.io/semester-project-sana-khuram/" target="_blank">
-  <img src="https://img.shields.io/badge/Community%20Science%20Museum-%20HTML%20%7C%20CSS-blueviolet?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<!-- Project 2 -->
-<a href="https://sanakhuram.github.io/squareEyes-js/" target="_blank">
-  <img src="https://img.shields.io/badge/Square%20Eyes-%20JS%20%7C%20Figma-blue?style=for-the-badge&logo=javascript&logoColor=white" />
-</a>
 
-<br><br>
+### ✨ Featured Projects:
 
-<!-- Project 3 -->
-<a href="https://color-muse-blog-project-exam-1.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Color%20Muse%20Blog-%20JS%20%7C%20CRUD%20API-ff69b4?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<!-- Project 4 -->
-<a href="https://sociogram-app.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Sociogram-%20Custom%20CSS%20%7C%20JS-6c5b7b?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
+- 🌍 **[Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)**  
+  A responsive, educational museum website designed with **HTML** and **CSS**. Created an interactive experience to engage young minds through science!
 
-<br><br>
+- 🎬 **[Square Eyes](https://sanakhuram.github.io/squareEyes-js/)**  
+  A movie e-commerce platform with an intuitive user interface designed in **Figma** and developed using **vanilla JavaScript** for seamless API integration and cart functionality.
 
-<!-- Project 5 -->
-<a href="https://auction-hub.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Auction%20Hub-%20Responsive%20%7C%20API-success?style=for-the-badge&logo=web&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<!-- Project 6 -->
-<a href="https://hopeandhealthwelfareassociation.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Client%20Project-%20Hope%20&%20Health-98c9a3?style=for-the-badge&logo=heart&logoColor=white" />
-</a>
+- 🎨 **[Color Muse Blog](https://color-muse-blog-project-exam-1.netlify.app/)**  
+  A responsive web application featuring a dynamic blog with an interactive carousel and grid layout for recent posts. Admin users can log in to manage content. Built with HTML, CSS, and JavaScript, with API integration for CRUD operations.
 
+- 💬 **[Sociogram](https://sociogram-app.netlify.app/)**  
+  A social networking web app built with a custom **CSS framework** and **JavaScript**, focusing on clean UI and responsive layouts. Enables users to create profiles, follow others, and share posts.  
+
+- 🛍️ **[Auction Hub](https://auction-hub.netlify.app/)**  
+  A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
+  <h4>🌿 <a href="https://hopeandhealthwelfareassociation.com/">Hope & Health Welfare Association</a> — <em>First Client Project 💖</em></h4>
+  <p>Developed a real-world website for a non-profit using <strong>HTML, CSS, and JavaScript</strong>. Focused on clean layout, accessibility, and mobile responsiveness.</p>
 </div>
-
 
 
 ### 📫 Let's Connect:
