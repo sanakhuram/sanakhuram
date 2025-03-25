@@ -112,7 +112,6 @@ These small projects helped me practice specific skills while exploring design p
 <div align="center">
   <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?"  />
 </div>
-
-  
+<div>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" alt="Coding GIF" />
 </div>
