@@ -78,6 +78,23 @@ Coding with colors, coffee, and a playlist on repeat.
 - 📸 **[Follow on Instagram](https://www.instagram.com/sana_khuram?igsh=MTBneHhvd2d2eXB2dg==)** 
 - 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/sana-khuram-157ba02b7/)**
 
+
+### 🧪 Learning Experiments
+
+These small projects helped me practice specific skills while exploring design patterns, layout techniques, and interactivity:
+
+- 🌧️ **[Rainy Days](https://sanakhuram.github.io/Rainy-Days/)**  
+  A mock e-commerce homepage built with **HTML** and **CSS**, focused on layout structure, visual hierarchy, and responsive design principles.
+
+- 📚 **[BiblioTint](https://sanakhuram.github.io/BilblioTint/)**  
+  A colorful concept for a book collection site. Practiced consistent styling, modern typography, and page structure.
+
+- 👣 **[Follow the Steps](https://sanakhuram.github.io/follow-the-steps/)**  
+  A simple step-by-step interactive layout using CSS and JavaScript. Focused on basic logic, user interaction, and visual progression.
+
+> 💡 *These projects are part of my hands-on learning journey — turning curiosity into code!*
+
+
 ### 📊 GitHub Stats & Activity:
 
 <div align="center">
