@@ -65,15 +65,12 @@ Coding with colors, coffee, and a playlist on repeat.
 - 💬 **[Sociogram](https://sociogram-app.netlify.app/)**  
   A social networking web app built with a custom **CSS framework** and **JavaScript**, focusing on clean UI and responsive layouts. Enables users to create profiles, follow others, and share posts.  
 
-#### 🎯 Project: Auction Hub  
-**Tech:** HTML, CSS, JavaScript  
-📌 A fully responsive auction platform with API integration.  
-🌐 [Live Site](https://auction-hub.netlify.app/) | 📂 [GitHub](https://github.com/sanakhuram/auction-hub-SP2)
+- 🛍️ **[Auction Hub](https://auction-hub.netlify.app/)**  
+  A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
   <h4>🌿 <a href="https://hopeandhealthwelfareassociation.com/">Hope & Health Welfare Association</a> — <em>First Client Project 💖</em></h4>
   <p>Developed a real-world website for a non-profit using <strong>HTML, CSS, and JavaScript</strong>. Focused on clean layout, accessibility, and mobile responsiveness.</p>
-  <a href="https://github.com/sanakhuram/hope-health-welfare-associations">🔗 GitHub Repo</a>
 </div>
 
 ---
