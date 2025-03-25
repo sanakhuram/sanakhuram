@@ -111,7 +111,7 @@ These small projects helped me practice specific skills while exploring design p
 <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" width="80" alt="Mind blown!" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" width="80" alt="Ahh, it works!" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="80" alt="Wait, how did that work?" /> </div> <div align="center"><strong>🤯 → 😇 → 🧐 Repeat until deployed.</strong></div>
 
 
-<div align="center">
+<div>
   <img src="https://orig00.deviantart.net/e295/f/2014/304/4/3/_animated_gif__auriel_cat_sees_and_knows_all__by_miisu-d84rvtf.png" width="200" alt="The cat sees your code" />
   <br>
   <strong>🐱 The Cat Sees All. Lint Before You Commit.</strong>
