@@ -110,8 +110,6 @@ These small projects helped me practice specific skills while exploring design p
 
 <div>
   <img src="https://orig00.deviantart.net/e295/f/2014/304/4/3/_animated_gif__auriel_cat_sees_and_knows_all__by_miisu-d84rvtf.png" width="200" alt="The cat sees your code" />
-  <br>
-  <strong>🐱 The Cat Sees All. Lint Before You Commit.</strong>
 </div>
 
 
