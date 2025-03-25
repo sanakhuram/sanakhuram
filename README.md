@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-
 ### ✨ Featured Projects:
 
 - 🌍 **[Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)**  
@@ -53,11 +52,10 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 
 - 💬 **[Sociogram](https://sociogram-app.netlify.app/)**  
   A social networking web app built with a custom **CSS framework** and **JavaScript**, focusing on clean UI and responsive layouts. Enables users to create profiles, follow others, and share posts.  
-  🔗 [GitHub Repo](https://github.com/sanakhuram/css-frameworks/tree/css-frameworks)
 
 - 🛍️ **[Auction Hub](https://auction-hub.netlify.app/)**  
   A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
-  🔗 [GitHub Repo](https://github.com/sanakhuram/auction-hub-SP2)
+  
 
 ### 🎒 Just for Fun
 
@@ -89,4 +87,3 @@ Coding with colors, coffee, and a playlist on repeat.
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" alt="Coding GIF" />
 </div>
-
