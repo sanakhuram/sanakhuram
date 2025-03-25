@@ -50,6 +50,7 @@ Coding with colors, coffee, and a playlist on repeat.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+
 ### ✨ Featured Projects:
 
 - 🌍 **[Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)**  
@@ -66,7 +67,9 @@ Coding with colors, coffee, and a playlist on repeat.
 
 - 🛍️ **[Auction Hub](https://auction-hub.netlify.app/)**  
   A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
-  
+
+- 🌿 **[Hope & Health Welfare Association](https://hopeandhealthwelfareassociation.com/)** *(First Client Project 💖)*  
+  A live, real-world website built for a non-profit organization focusing on health and community welfare. Developed with a mobile-friendly layout and a clean, accessible design using **HTML**, **CSS**, and **JavaScript**.  
 
 
 ### 📫 Let's Connect:
