@@ -51,40 +51,29 @@ Coding with colors, coffee, and a playlist on repeat.
 </div>
 
 
-### ✨ Featured Projects
+### ✨ Featured Projects:
+
+- 🌍 **[Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)**  
+  A responsive, educational museum website designed with **HTML** and **CSS**. Created an interactive experience to engage young minds through science!
+
+- 🎬 **[Square Eyes](https://sanakhuram.github.io/squareEyes-js/)**  
+  A movie e-commerce platform with an intuitive user interface designed in **Figma** and developed using **vanilla JavaScript** for seamless API integration and cart functionality.
+
+- 🎨 **[Color Muse Blog](https://color-muse-blog-project-exam-1.netlify.app/)**  
+  A responsive web application featuring a dynamic blog with an interactive carousel and grid layout for recent posts. Admin users can log in to manage content. Built with HTML, CSS, and JavaScript, with API integration for CRUD operations.
+
+- 💬 **[Sociogram](https://sociogram-app.netlify.app/)**  
+  A social networking web app built with a custom **CSS framework** and **JavaScript**, focusing on clean UI and responsive layouts. Enables users to create profiles, follow others, and share posts.  
+
+- 🛍️ **[Auction Hub](https://auction-hub.netlify.app/)**  
+  A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
+  <h4>🌿 <a href="https://hopeandhealthwelfareassociation.com/">Hope & Health Welfare Association</a> — <em>First Client Project 💖</em></h4>
+  <p>Developed a real-world website for a non-profit using <strong>HTML, CSS, and JavaScript</strong>. Focused on clean layout, accessibility, and mobile responsiveness.</p>
+</div>
 
 ---
-
-#### 🌍 [Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)
-A responsive, educational website built with **HTML** & **CSS**. Designed to engage young minds through interactive and visual storytelling.
-
----
-
-#### 🎬 [Square Eyes](https://sanakhuram.github.io/squareEyes-js/)
-An e-commerce movie platform with a clean UI built in **JavaScript**, styled in **Figma**, featuring API integration and shopping cart functionality.
-
----
-
-#### 🎨 [Color Muse Blog](https://color-muse-blog-project-exam-1.netlify.app/)
-A blog web app with dynamic posts, carousel, and admin login. Created with **HTML**, **CSS**, and **JavaScript**, using an API for full CRUD operations.
-
----
-
-#### 💬 [Sociogram](https://sociogram-app.netlify.app/)
-A social networking platform with profile creation, post sharing, and following features. Built using a custom **CSS framework** and **JavaScript**.
-
----
-
-#### 🛍️ [Auction Hub](https://auction-hub.netlify.app/)
-A feature-rich auction site where users can register, list items, and place bids. Developed with **JavaScript**, responsive **CSS**, and API integration.
-
----
-
-#### 🌿 [Hope & Health Welfare Association](https://hopeandhealthwelfareassociation.com/) *(First Client Project 💖)*
-My first real-world client site — a mobile-friendly, accessible website for a non-profit. Built using **HTML**, **CSS**, and **JavaScript**.
-
----
-
 
 ### 📫 Let's Connect:
 
