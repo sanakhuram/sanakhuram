@@ -22,10 +22,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 - ✈️ Originally from Pakistan, I moved to Norway and transitioned from a design career to front-end development, combining my love for creativity and coding. I'm loving every bit of this exciting new chapter!
 - 💖 Passionate about creating intuitive, user-centered web experiences that are as functional as they are beautiful.
   
-### 🎒 Just for Fun
-
-> *"If you think adventure is dangerous, try routine; it is lethal."*  
-> — **Paulo Coelho**
+### 🏡
 
 🎨 + 💻 + ☕ + 🎶 = My happy place 💖  
 Coding with colors, coffee, and a playlist on repeat.
