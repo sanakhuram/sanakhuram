@@ -46,28 +46,48 @@ Coding with colors, coffee, and a playlist on repeat.
 </div>
 
 
+### ✨ Featured Projects
 
-### ✨ Featured Projects:
+<div align="center">
 
-- 🌍 **[Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)**  
-  A responsive, educational museum website designed with **HTML** and **CSS**. Created an interactive experience to engage young minds through science!
-
-- 🎬 **[Square Eyes](https://sanakhuram.github.io/squareEyes-js/)**  
-  A movie e-commerce platform with an intuitive user interface designed in **Figma** and developed using **vanilla JavaScript** for seamless API integration and cart functionality.
-
-- 🎨 **[Color Muse Blog](https://color-muse-blog-project-exam-1.netlify.app/)**  
-  A responsive web application featuring a dynamic blog with an interactive carousel and grid layout for recent posts. Admin users can log in to manage content. Built with HTML, CSS, and JavaScript, with API integration for CRUD operations.
-
-- 💬 **[Sociogram](https://sociogram-app.netlify.app/)**  
-  A social networking web app built with a custom **CSS framework** and **JavaScript**, focusing on clean UI and responsive layouts. Enables users to create profiles, follow others, and share posts.  
-
-- 🛍️ **[Auction Hub](https://auction-hub.netlify.app/)**  
-  A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
-
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
-  <h4>🌿 <a href="https://hopeandhealthwelfareassociation.com/">Hope & Health Welfare Association</a> — <em>First Client Project 💖</em></h4>
-  <p>Developed a real-world website for a non-profit using <strong>HTML, CSS, and JavaScript</strong>. Focused on clean layout, accessibility, and mobile responsiveness.</p>
+<!-- Tile 1 -->
+<div style="background-color:#fff5e6; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #f1e0d6;">
+  <h4>🌍 <a href="https://sanakhuram.github.io/semester-project-sana-khuram/" target="_blank">Community Science Museum</a></h4>
+  <p>A responsive, educational museum website built with <strong>HTML</strong> and <strong>CSS</strong>. Created an interactive experience to engage young minds through science.</p>
 </div>
+
+<!-- Tile 2 -->
+<div style="background-color:#ffe6f0; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #f4dce7;">
+  <h4>🎬 <a href="https://sanakhuram.github.io/squareEyes-js/" target="_blank">Square Eyes</a></h4>
+  <p>A movie e-commerce platform with a clean UI, designed in <strong>Figma</strong> and developed using <strong>JavaScript</strong> with API integration and shopping cart functionality.</p>
+</div>
+
+<!-- Tile 3 -->
+<div style="background-color:#f3ecff; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #e5dcf5;">
+  <h4>🎨 <a href="https://color-muse-blog-project-exam-1.netlify.app/" target="_blank">Color Muse Blog</a></h4>
+  <p>A blog web app featuring a dynamic carousel and grid layout. Built using <strong>HTML, CSS</strong>, and <strong>JavaScript</strong>, with full CRUD API functionality and admin login.</p>
+</div>
+
+<!-- Tile 4 -->
+<div style="background-color:#e6f7ff; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #d3ecf7;">
+  <h4>💬 <a href="https://sociogram-app.netlify.app/" target="_blank">Sociogram</a></h4>
+  <p>A social networking web app built with a custom <strong>CSS framework</strong> and <strong>JavaScript</strong>. Includes profile creation, following, and post sharing.</p>
+</div>
+
+<!-- Tile 5 -->
+<div style="background-color:#fff0f5; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #f8d9e6;">
+  <h4>🛍️ <a href="https://auction-hub.netlify.app/" target="_blank">Auction Hub</a></h4>
+  <p>A full-featured auction marketplace where users can register, list items, and place bids. Built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, with API integration.</p>
+</div>
+
+<!-- Tile 6: Client Project -->
+<div style="background-color:#e5fff1; border: 2px solid #ade8d4; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #c6f0e1;">
+  <h4>🌿 <a href="https://hopeandhealthwelfareassociation.com/" target="_blank">Hope & Health Welfare Association</a> — <em>First Client Project 💖</em></h4>
+  <p>A real-world website for a non-profit organization. Developed using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, with mobile-first design and accessibility focus.</p>
+</div>
+
+</div>
+
 
 
 ### 📫 Let's Connect:
