@@ -59,6 +59,13 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
   🔗 [GitHub Repo](https://github.com/sanakhuram/auction-hub-SP2)
 
+### 🎒 Just for Fun
+
+> *"If you think adventure is dangerous, try routine; it is lethal."*  
+> — **Paulo Coelho**
+
+🎨 + 💻 + ☕ + 🎶 = My happy place 💖  
+Coding with colors, coffee, and a playlist on repeat.
 
 ### 📫 Let's Connect:
 
