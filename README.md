@@ -111,3 +111,4 @@ These small projects helped me practice specific skills while exploring design p
 <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" width="80" alt="Mind blown!" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" width="80" alt="Ahh, it works!" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="80" alt="Wait, how did that work?" /> </div> <div align="center"><strong>🤯 → 😇 → 🧐 Repeat until deployed.</strong></div>
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Honey Bee](./assets/honeybee.gif)
