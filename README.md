@@ -68,8 +68,11 @@ Coding with colors, coffee, and a playlist on repeat.
 - 🛍️ **[Auction Hub](https://auction-hub.netlify.app/)**  
   A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
 
-- 🌿 **[Hope & Health Welfare Association](https://hopeandhealthwelfareassociation.com/)** *(First Client Project 💖)*  
-  A live, real-world website built for a non-profit organization focusing on health and community welfare. Developed with a mobile-friendly layout and a clean, accessible design using **HTML**, **CSS**, and **JavaScript**.  
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
+  <h4>🌿 <a href="https://hopeandhealthwelfareassociation.com/">Hope & Health Welfare Association</a> — <em>First Client Project 💖</em></h4>
+  <p>Developed a real-world website for a non-profit using <strong>HTML, CSS, and JavaScript</strong>. Focused on clean layout, accessibility, and mobile responsiveness.</p>
+  <a href="https://github.com/sanakhuram/hope-health-welfare-associations">🔗 GitHub Repo</a>
+</div>
 
 ---
 
