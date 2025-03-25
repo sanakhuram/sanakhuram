@@ -45,7 +45,6 @@ Coding with colors, coffee, and a playlist on repeat.
 
 </div>
 
-
 ### ✨ Featured Projects
 
 <div align="center">
@@ -87,6 +86,7 @@ Coding with colors, coffee, and a playlist on repeat.
 </div>
 
 </div>
+
 
 
 
