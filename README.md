@@ -97,12 +97,14 @@ These small projects helped me practice specific skills while exploring design p
 > 💡 *These projects are part of my hands-on learning journey — turning curiosity into code!*
 
 
-### 📊 GitHub Stats & Activity:
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanakhuram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanakhuram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanakhuram&show_icons=true&count_private=true&hide_border=true&title_color=e07a5f&text_color=6c5b7b&icon_color=f67280&bg_color=fff5e6" height="150" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhuram&layout=compact&langs_count=6&hide_border=true&title_color=e07a5f&text_color=6c5b7b&icon_color=f67280&bg_color=fff5e6" height="150" alt="Top Languages" />
 </div>
+
 
 ###
 
