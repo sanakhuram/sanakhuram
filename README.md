@@ -1,4 +1,4 @@
-# 🌷 Hi there, I'm Sana! 👋
+# 🌷 Hi there, I'm Sana! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 🎨 **Front-End Developer** | 🌱 **Constant Learner** | 🚀 **Creativity Enthusiast**
 
