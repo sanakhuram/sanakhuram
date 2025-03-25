@@ -40,10 +40,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 </div>
 
 
-Absolutely! Here's how you can update your GitHub README to include your two additional projects — **Sociogram** and **Auction Hub** — under the **✨ Featured Projects** section. I've formatted them to match the style you already have:
-
----
-
 ### ✨ Featured Projects:
 
 - 🌍 **[Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)**  
@@ -63,9 +59,7 @@ Absolutely! Here's how you can update your GitHub README to include your two add
   A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
   🔗 [GitHub Repo](https://github.com/sanakhuram/auction-hub-SP2)
 
----
 
-Let me know if you want icons, emojis, or badges next to the new projects like the others, or if you'd like help with a featured image section for each. 😊
 ### 📫 Let's Connect:
 
 - 💌 Reach me at: [sana.khuram.baig@gmail.com](mailto:sana.khuram.baig@gmail.com)
