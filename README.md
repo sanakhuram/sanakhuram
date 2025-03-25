@@ -44,49 +44,45 @@ Coding with colors, coffee, and a playlist on repeat.
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
 </div>
-
 ### ✨ Featured Projects
 
 <div align="center">
 
-<!-- Tile 1 -->
-<div style="background-color:#fff5e6; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #f1e0d6;">
-  <h4>🌍 <a href="https://sanakhuram.github.io/semester-project-sana-khuram/" target="_blank">Community Science Museum</a></h4>
-  <p>A responsive, educational museum website built with <strong>HTML</strong> and <strong>CSS</strong>. Created an interactive experience to engage young minds through science.</p>
-</div>
+<!-- Project 1 -->
+<a href="https://sanakhuram.github.io/semester-project-sana-khuram/" target="_blank">
+  <img src="https://img.shields.io/badge/Community%20Science%20Museum-%20HTML%20%7C%20CSS-blueviolet?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<!-- Project 2 -->
+<a href="https://sanakhuram.github.io/squareEyes-js/" target="_blank">
+  <img src="https://img.shields.io/badge/Square%20Eyes-%20JS%20%7C%20Figma-blue?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
 
-<!-- Tile 2 -->
-<div style="background-color:#ffe6f0; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #f4dce7;">
-  <h4>🎬 <a href="https://sanakhuram.github.io/squareEyes-js/" target="_blank">Square Eyes</a></h4>
-  <p>A movie e-commerce platform with a clean UI, designed in <strong>Figma</strong> and developed using <strong>JavaScript</strong> with API integration and shopping cart functionality.</p>
-</div>
+<br><br>
 
-<!-- Tile 3 -->
-<div style="background-color:#f3ecff; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #e5dcf5;">
-  <h4>🎨 <a href="https://color-muse-blog-project-exam-1.netlify.app/" target="_blank">Color Muse Blog</a></h4>
-  <p>A blog web app featuring a dynamic carousel and grid layout. Built using <strong>HTML, CSS</strong>, and <strong>JavaScript</strong>, with full CRUD API functionality and admin login.</p>
-</div>
+<!-- Project 3 -->
+<a href="https://color-muse-blog-project-exam-1.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Color%20Muse%20Blog-%20JS%20%7C%20CRUD%20API-ff69b4?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<!-- Project 4 -->
+<a href="https://sociogram-app.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Sociogram-%20Custom%20CSS%20%7C%20JS-6c5b7b?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
 
-<!-- Tile 4 -->
-<div style="background-color:#e6f7ff; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #d3ecf7;">
-  <h4>💬 <a href="https://sociogram-app.netlify.app/" target="_blank">Sociogram</a></h4>
-  <p>A social networking web app built with a custom <strong>CSS framework</strong> and <strong>JavaScript</strong>. Includes profile creation, following, and post sharing.</p>
-</div>
+<br><br>
 
-<!-- Tile 5 -->
-<div style="background-color:#fff0f5; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #f8d9e6;">
-  <h4>🛍️ <a href="https://auction-hub.netlify.app/" target="_blank">Auction Hub</a></h4>
-  <p>A full-featured auction marketplace where users can register, list items, and place bids. Built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, with API integration.</p>
-</div>
-
-<!-- Tile 6: Client Project -->
-<div style="background-color:#e5fff1; border: 2px solid #ade8d4; border-radius:12px; padding:16px; margin:10px 0; max-width:700px; text-align:left; box-shadow: 0 0 10px #c6f0e1;">
-  <h4>🌿 <a href="https://hopeandhealthwelfareassociation.com/" target="_blank">Hope & Health Welfare Association</a> — <em>First Client Project 💖</em></h4>
-  <p>A real-world website for a non-profit organization. Developed using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, with mobile-first design and accessibility focus.</p>
-</div>
+<!-- Project 5 -->
+<a href="https://auction-hub.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Auction%20Hub-%20Responsive%20%7C%20API-success?style=for-the-badge&logo=web&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<!-- Project 6 -->
+<a href="https://hopeandhealthwelfareassociation.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Client%20Project-%20Hope%20&%20Health-98c9a3?style=for-the-badge&logo=heart&logoColor=white" />
+</a>
 
 </div>
-
 
 
 
