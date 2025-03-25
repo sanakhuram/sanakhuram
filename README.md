@@ -71,6 +71,7 @@ Coding with colors, coffee, and a playlist on repeat.
 - 🌿 **[Hope & Health Welfare Association](https://hopeandhealthwelfareassociation.com/)** *(First Client Project 💖)*  
   A live, real-world website built for a non-profit organization focusing on health and community welfare. Developed with a mobile-friendly layout and a clean, accessible design using **HTML**, **CSS**, and **JavaScript**.  
 
+---
 
 ### 📫 Let's Connect:
 
@@ -78,6 +79,7 @@ Coding with colors, coffee, and a playlist on repeat.
 - 📸 **[Follow on Instagram](https://www.instagram.com/sana_khuram?igsh=MTBneHhvd2d2eXB2dg==)** 
 - 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/sana-khuram-157ba02b7/)**
 
+---
 
 ### 🧪 Learning Experiments
 
@@ -94,6 +96,7 @@ These small projects helped me practice specific skills while exploring design p
 
 > 💡 *These projects are part of my hands-on learning journey — turning curiosity into code!*
 
+---
 
 ### 📊 GitHub Stats & Activity:
 
