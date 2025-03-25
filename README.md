@@ -9,21 +9,26 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 
 🌟 [New Year, New Goals!](https://newyear-resolutions.netlify.app/)  
 
-
+### 🌿 **Currently exploring:**
+  - API integration with JavaScript  
+  - Accessibility & inclusive design  
+  - Component-based design systems  
+  - **React.js** 💙 (super excited about building dynamic, interactive UIs!)
+    
 ### 💡 A Little About Me:
 
 - 🌸 I’m Sana, a front-end developer who loves blending art with technology.
 - 🎨 I hold a Bachelor of Fine Arts (BFA) in Miniature Painting and a Master's in Interior Design—my artistic background heavily influences my design choices in web development.
 - ✈️ Originally from Pakistan, I moved to Norway and transitioned from a design career to front-end development, combining my love for creativity and coding. I'm loving every bit of this exciting new chapter!
-- 🌿 **Currently exploring:**
-  - API integration with JavaScript  
-  - Accessibility & inclusive design  
-  - Component-based design systems  
-  - **React.js** 💙 (super excited about building dynamic, interactive UIs!)
-- 🖌️ When I'm not coding, you'll often find me painting landscapes or creating miniatures—art is still my favorite way to unwind and stay inspired.
-- 🎧 Music helps fuel my creativity while coding.
 - 💖 Passionate about creating intuitive, user-centered web experiences that are as functional as they are beautiful.
+  
+### 🎒 Just for Fun
 
+> *"If you think adventure is dangerous, try routine; it is lethal."*  
+> — **Paulo Coelho**
+
+🎨 + 💻 + ☕ + 🎶 = My happy place 💖  
+Coding with colors, coffee, and a playlist on repeat.
 
 ### 🛠️ Tech Stack:
 
@@ -63,13 +68,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   A full-featured auction marketplace where users can register, place bids, and list items. Created using **HTML**, **CSS**, and **JavaScript**, with API integration and a mobile-first responsive design.  
   
 
-### 🎒 Just for Fun
-
-> *"If you think adventure is dangerous, try routine; it is lethal."*  
-> — **Paulo Coelho**
-
-🎨 + 💻 + ☕ + 🎶 = My happy place 💖  
-Coding with colors, coffee, and a playlist on repeat.
 
 ### 📫 Let's Connect:
 
