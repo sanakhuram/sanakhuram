@@ -73,7 +73,6 @@ Coding with colors, coffee, and a playlist on repeat.
   <p>Developed a real-world website for a non-profit using <strong>HTML, CSS, and JavaScript</strong>. Focused on clean layout, accessibility, and mobile responsiveness.</p>
 </div>
 
----
 
 ### 📫 Let's Connect:
 
@@ -81,7 +80,6 @@ Coding with colors, coffee, and a playlist on repeat.
 - 📸 **[Follow on Instagram](https://www.instagram.com/sana_khuram?igsh=MTBneHhvd2d2eXB2dg==)** 
 - 💼 **[Connect on LinkedIn](https://www.linkedin.com/in/sana-khuram-157ba02b7/)**
 
----
 
 ### 🧪 Learning Experiments
 
@@ -98,7 +96,6 @@ These small projects helped me practice specific skills while exploring design p
 
 > 💡 *These projects are part of my hands-on learning journey — turning curiosity into code!*
 
----
 
 ### 📊 GitHub Stats & Activity:
 
@@ -112,4 +109,11 @@ These small projects helped me practice specific skills while exploring design p
 <div align="center">
   <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?"  />
 </div>
+### 🤯→😌→🤔 My Daily Code Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" width="10%" alt="Mind blown!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" width="10%" alt="Ahh, it works!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="10%" alt="Wait, how did that even work?!"/>
 
