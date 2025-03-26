@@ -22,16 +22,9 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 - ✈️ Originally from Pakistan, I moved to Norway and transitioned from a design career to front-end development, combining my love for creativity and coding. I'm loving every bit of this exciting new chapter!
 - 💖 Passionate about creating intuitive, user-centered web experiences that are as functional as they are beautiful.
   
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
   <img src="/assets/image.png" width="150" alt="Not all those who wander are lost. Some are looking for coffee." />
   <div>
-    <p>
-      🎨 + 💻 + ☕ + 🎶 = My happy place 🏡<br/>
-      <em>Coding with colors, coffee, and a playlist on repeat.</em>
-    </p>
-  </div>
-</div>
-
 
 
 ### 🛠️ Tech Stack
