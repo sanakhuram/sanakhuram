@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="/assets/image.png" width="150" alt="Not all those who wander are lost. Some are looking for coffee." />
   <div>
 
-
 ### 🛠️ Tech Stack
 
 <div align="center">
