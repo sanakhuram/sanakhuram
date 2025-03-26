@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 ### 🎒 Just for Fun
 
 <div align="center"> <img src="https://raw.githubusercontent.com/sanakhuram/sanakhuram/main/assets/not-all-wander-coffee.gif" width="350" alt="Not all those who wander are lost. Some are looking for coffee." /> </div>
-![ChatGPT Image Mar 26, 2025, 09_52_02 AM](https://github.com/user-attachments/assets/dd122010-b589-4b0e-95c4-068d1d2baa75)
 
 🎨 + 💻 + ☕ + 🎶 = My happy place 🏡  
 Coding with colors, coffee, and a playlist on repeat.
