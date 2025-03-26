@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   
 ### 🎒 Just for Fun
 
-<div align="center"> <img src="/assests/image.png" width="350" alt="Not all those who wander are lost. Some are looking for coffee." /> </div>
+<div> <img src="/assests/image.png" width="100" alt="Not all those who wander are lost. Some are looking for coffee." /> </div>
 
 🎨 + 💻 + ☕ + 🎶 = My happy place 🏡  
 Coding with colors, coffee, and a playlist on repeat.
