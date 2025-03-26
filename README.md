@@ -34,8 +34,12 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+  ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=playwright&logoColor=fff)
+  ![Vitest](https://img.shields.io/badge/-Vitest-6F55A5?style=for-the-badge&logo=vitest&logoColor=fff)
 
 </div>
+
 
 
 
