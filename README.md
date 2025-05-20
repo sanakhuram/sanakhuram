@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 > **Tech:** `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Jest`, `React Testing Library`  
 A sleek and responsive e-commerce UI with cart functionality, product filtering, dark mode, toast notifications, and fully tested components. Built for speed and style.
 
-#### 📈 [Crypto Dashboard](https://crypto-vibe-dashboard.vercel.app/)
+#### 📈 [Crypto Dashboard](https://crypto-dashboard-nine-gilt.vercel.app/)
 > **Tech:** `React`, `Next.js`, `TypeScript`, `Chart.js`, `CoinGecko API`, `Tailwind CSS`  
 A real-time crypto dashboard featuring dynamic routing, charts, coin detail pages, and a search/sort/filter interface. Stylish, informative, and dev-friendly.
 
