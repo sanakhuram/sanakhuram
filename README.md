@@ -52,30 +52,37 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 
 #### 🛒 [Vibe Cart](https://jsfw-sanakhuram.vercel.app/)
 > **Tech:** `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Jest`, `React Testing Library` ,`Noroff API`
+
 A sleek and responsive e-commerce UI with cart functionality, product filtering, dark mode, toast notifications, and fully tested components. Built for speed and style.
 
 #### 📈 [Crypto Dashboard](https://crypto-dashboard-nine-gilt.vercel.app/)
-> **Tech:** `React`, `Next.js`, `TypeScript`, `Chart.js`, `CoinGecko API`, `Tailwind CSS`  
+> **Tech:** `React`, `Next.js`, `TypeScript`, `Chart.js`, `CoinGecko API`, `Tailwind CSS`
+  
 A real-time crypto dashboard featuring dynamic routing, charts, coin detail pages, and a search/sort/filter interface. Stylish, informative, and dev-friendly.
 
 #### 🏛️ [Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)
 > **Tech:** `HTML`, `CSS`
+
 Responsive museum website designed to inspire curiosity in young learners, with mobile-first layout and visual storytelling.
 
 #### 🎬 [Square Eyes](https://sanakhuram.github.io/squareEyes-js/)
 > **Tech:** `JavaScript`, `Figma`, `HTML`, `CSS` , `Noroff API`
+
 E-commerce movie site with cart functionality and API integration. Focused on a clean, minimal interface and interaction.
 
 #### 🖌️ [Color Muse Blog](https://color-muse-blog-project-exam-1.netlify.app/)
 > **Tech:** `JavaScript`, `REST API`, `HTML`, `CSS`
+
 Admin panel, dynamic posts, carousel for featured content. Blog with full CRUD functionality and smooth UX.
 
 #### 💬 [Sociogram](https://sociogram-app.netlify.app/)
 > **Tech:** `JavaScript`, `Tailwind CSS` , , `Noroff API`
+
 Mock social platform with profile, follow, and post features. Built from the ground up with a custom CSS framework.
 
 #### 🛍️ [Auction Hub](https://auction-hub.netlify.app/)
 > **Tech:** `JavaScript`, `HTML`, `Tailwind CSS`, `Noroff API`
+
 Auction site with full bidding, item listings, and user management. Optimized for mobile and accessibility.
 
 ---
