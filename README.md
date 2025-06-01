@@ -63,7 +63,6 @@ A real-time crypto dashboard featuring dynamic routing, charts, coin detail page
 #### ☕ [Bloom & Brew – Coffee Café App](https://coffee-cafe-app.vercel.app/)
 > **Tech:** `Next.js`, `React`, `TypeScript`, `Tailwind CSS`, `Custom API`  
 A cozy café experience brewed into a web app — built from scratch with a custom backend API. Features include a scrollable coffee menu, animated transitions, and a full-screen modal for rich product details. Sip, shop, explore — all from your screen.  
-🔗 [GitHub Repo](https://github.com/sanakhuram/coffee-cafe-app)
 
 #### 🏛️ [Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)
 > **Tech:** `HTML`, `CSS`  
