@@ -4,11 +4,13 @@
 
 Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web designs. I'm currently studying **Front-End Development** at **Noroff Education** and working on exciting projects that showcase my love for creative design and coding. Check out my portfolio below! 👇
 
-### 🌐 My Portfolio
+---
+
+### 🌐 My Portfolio  
 [![favicon-32x32](https://github.com/user-attachments/assets/7a5977fe-ac13-4b81-93f2-1acb0188cf00)](https://skhuram.netlify.app/)  
 👉 https://skhuram.netlify.app/
 
-🌟 [New Year, New Goals!](https://newyear-resolutions.netlify.app/)  
+🌟 [New Year, New Goals!](https://newyear-resolutions.netlify.app/)
 
 ---
 
@@ -51,32 +53,37 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 ### ✨ Featured Projects
 
 #### 🛒 [Vibe Cart](https://jsfw-sanakhuram.vercel.app/)
-> **Tech:** `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Jest`, `React Testing Library` ,`Noroff API`
- A sleek and responsive e-commerce UI with cart functionality, product filtering, dark mode, toast notifications, and fully tested components. Built for speed and style.
+> **Tech:** `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Jest`, `React Testing Library`, `Noroff API`  
+A sleek and responsive e-commerce UI with cart functionality, product filtering, dark mode, toast notifications, and fully tested components. Built for speed and style.
 
 #### 📈 [Crypto Dashboard](https://crypto-dashboard-nine-gilt.vercel.app/)
 > **Tech:** `React`, `Next.js`, `TypeScript`, `Chart.js`, `CoinGecko API`, `Tailwind CSS`  
-  A real-time crypto dashboard featuring dynamic routing, charts, coin detail pages, and a search/sort/filter interface. Stylish, informative, and dev-friendly.
+A real-time crypto dashboard featuring dynamic routing, charts, coin detail pages, and a search/sort/filter interface. Stylish, informative, and dev-friendly.
+
+#### ☕ [Bloom & Brew – Coffee Café App](https://coffee-cafe-app.vercel.app/)
+> **Tech:** `Next.js`, `React`, `TypeScript`, `Tailwind CSS`, `Custom API`  
+A cozy café experience brewed into a web app — built from scratch with a custom backend API. Features include a scrollable coffee menu, animated transitions, and a full-screen modal for rich product details. Sip, shop, explore — all from your screen.  
+🔗 [GitHub Repo](https://github.com/sanakhuram/coffee-cafe-app)
 
 #### 🏛️ [Community Science Museum](https://sanakhuram.github.io/semester-project-sana-khuram/)
-> **Tech:** `HTML`, `CSS`
-  Responsive museum website designed to inspire curiosity in young learners, with mobile-first layout and visual storytelling.
+> **Tech:** `HTML`, `CSS`  
+Responsive museum website designed to inspire curiosity in young learners, with mobile-first layout and visual storytelling.
 
 #### 🎬 [Square Eyes](https://sanakhuram.github.io/squareEyes-js/)
-> **Tech:** `JavaScript`, `Figma`, `HTML`, `CSS` , `Noroff API`
-  E-commerce movie site with cart functionality and API integration. Focused on a clean, minimal interface and interaction.
+> **Tech:** `JavaScript`, `Figma`, `HTML`, `CSS`, `Noroff API`  
+E-commerce movie site with cart functionality and API integration. Focused on a clean, minimal interface and interaction.
 
 #### 🖌️ [Color Muse Blog](https://color-muse-blog-project-exam-1.netlify.app/)
-> **Tech:** `JavaScript`, `REST API`, `HTML`, `CSS`
-  Admin panel, dynamic posts, carousel for featured content. Blog with full CRUD functionality and smooth UX.
+> **Tech:** `JavaScript`, `REST API`, `HTML`, `CSS`  
+Admin panel, dynamic posts, carousel for featured content. Blog with full CRUD functionality and smooth UX.
 
 #### 💬 [Sociogram](https://sociogram-app.netlify.app/)
-> **Tech:** `JavaScript`, `Tailwind CSS` , , `Noroff API`
-  Mock social platform with profile, follow, and post features. Built from the ground up with a custom CSS framework.
+> **Tech:** `JavaScript`, `Tailwind CSS`, `Noroff API`  
+Mock social platform with profile, follow, and post features. Built from the ground up with a custom CSS framework.
 
 #### 🛍️ [Auction Hub](https://auction-hub.netlify.app/)
-> **Tech:** `JavaScript`, `HTML`, `Tailwind CSS`, `Noroff API`
-  Auction site with full bidding, item listings, and user management. Optimized for mobile and accessibility.
+> **Tech:** `JavaScript`, `HTML`, `Tailwind CSS`, `Noroff API`  
+Auction site with full bidding, item listings, and user management. Optimized for mobile and accessibility.
 
 ---
 
@@ -90,16 +97,16 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 ### 🧪 Learning Experiments
 
 #### 🌧️ [Rainy Days](https://sanakhuram.github.io/Rainy-Days/)
-> **Tech:** `HTML`, `CSS` , `Noroff API` 
-  Layout and visual structure for e-commerce homepage. Mobile-first and responsive.
+> **Tech:** `HTML`, `CSS`, `Noroff API`  
+Layout and visual structure for e-commerce homepage. Mobile-first and responsive.
 
 #### 📚 [BiblioTint](https://sanakhuram.github.io/BilblioTint/)
 > **Tech:** `HTML`, `CSS`  
-  Colorful book site concept. Practiced layout, spacing, and typography.
+Colorful book site concept. Practiced layout, spacing, and typography.
 
 #### 👣 [Follow the Steps](https://sanakhuram.github.io/follow-the-steps/)
 > **Tech:** `JavaScript`, `HTML`, `CSS`, `OpenStreetMap API`  
-  Interactive step-by-step interface for guiding users through a simple process.
+Interactive step-by-step interface for guiding users through a simple process.
 
 ---
 
@@ -114,7 +121,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 > 💡 *These projects are part of my hands-on learning journey — turning curiosity into code!*  
 > Made with ❤️, CSS gradients, and maybe a little too much coffee ☕
 
-
+---
 
 ### 📊 GitHub Stats & Activity
 
@@ -124,11 +131,10 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhuram&layout=compact&langs_count=6&hide_border=true&title_color=e07a5f&text_color=6c5b7b&icon_color=f67280&bg_color=fff5e6" height="150" alt="Top Languages" />
 </div>
 
-
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?" />
 </div>
 
 <div align="center">
@@ -136,7 +142,3 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 </div>
 
 <div align="center"><em>"I see your code. I know your bugs."</em> 😼</div>
-
-
-
-
