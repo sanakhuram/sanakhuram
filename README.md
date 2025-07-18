@@ -130,11 +130,8 @@ Interactive step-by-step interface for guiding users through a simple process.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhuram&layout=compact&langs_count=6&hide_border=true&title_color=e07a5f&text_color=6c5b7b&icon_color=f67280&bg_color=fff5e6" height="150" alt="Top Languages" />
 </div>
 
----
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?" />
-</div>
+
 
 <div align="center">
   <img src="https://orig00.deviantart.net/e295/f/2014/304/4/3/_animated_gif__auriel_cat_sees_and_knows_all__by_miisu-d84rvtf.png" width="250" alt="Mystical Cat Sees All" />
