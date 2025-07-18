@@ -138,3 +138,8 @@ Interactive step-by-step interface for guiding users through a simple process.
 </div>
 
 <div align="center"><em>"I see your code. I know your bugs."</em> 😼</div>
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sanakhuram/count.svg?" />
+</div>
