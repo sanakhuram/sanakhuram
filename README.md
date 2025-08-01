@@ -42,6 +42,9 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+
 
 #### 🎨 **Design & Visuals**
 
