@@ -4,14 +4,13 @@
 
 Welcome to my GitHub profile! I’m a **Front-End Developer** passionate about building beautiful and responsive web designs. I work on exciting projects that showcase my creativity and coding skills. Check out my portfolio below! 👇
 
-
 ### 🌐 My Portfolio  
 [![favicon-32x32](https://github.com/user-attachments/assets/7a5977fe-ac13-4b81-93f2-1acb0188cf00)](https://skhuram.netlify.app/)  
 👉 https://skhuram.netlify.app/
 
 🌟 [New Year, New Goals!](https://newyear-resolutions.netlify.app/)
 
---
+---
 
 ### 🌿 **Currently exploring:**
 - **React.js** 💙 – building dynamic, interactive UIs
@@ -23,31 +22,19 @@ Welcome to my GitHub profile! I’m a **Front-End Developer** passionate about b
 - **Component-based Design Systems** – reusable, scalable UI components
 - **Testing** 🧪 – Jest, React Testing Library, and Playwright for robust, reliable code
 
+---
 
-### 🛠️ Tech Stack
+| Front-End Development                                                                                                       | Tools & Frameworks                                                                                                       | Design & Visuals                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat\&logo=react\&logoColor=000\&logoWidth=20)                    | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat\&logo=vite\&logoColor=fff\&logoWidth=20)                    | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat\&logo=figma\&logoColor=fff\&logoWidth=20) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=next.js\&logoColor=fff\&logoWidth=20)              | ![Vitest](https://img.shields.io/badge/-Vitest-6F55A5?style=flat\&logo=vitest\&logoColor=fff\&logoWidth=20)              | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat\&logo=canva\&logoColor=fff\&logoWidth=20) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=fff\&logoWidth=20)     | ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat\&logo=playwright\&logoColor=fff\&logoWidth=20)  |                                                                                                          |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=000\&logoWidth=20)     | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat\&logo=jest\&logoColor=fff\&logoWidth=20)                    |                                                                                                          |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=fff\&logoWidth=20)                    | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=fff\&logoWidth=20)              |                                                                                                          |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3\&logoColor=fff\&logoWidth=20)                       | ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat\&logo=visual-studio-code\&logoColor=fff\&logoWidth=20) |                                                                                                          |
+| ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat\&logo=tailwindcss\&logoColor=fff\&logoWidth=20) | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat\&logo=sass\&logoColor=fff\&logoWidth=20)                    |                                                                                                          |
+|                                                                                                                             | ![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=flat\&logo=chakraui\&logoColor=fff\&logoWidth=20)       |                                                                                                          |
 
-### 💻 Front-End Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000&logoWidth=20) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff&logoWidth=20) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff&logoWidth=20) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000&logoWidth=20) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff&logoWidth=20) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff&logoWidth=20) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff&logoWidth=20)  
-
-### 🧰 Tools & Frameworks
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff&logoWidth=20) 
-![Vitest](https://img.shields.io/badge/-Vitest-6F55A5?style=flat&logo=vitest&logoColor=fff&logoWidth=20) 
-![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&logo=playwright&logoColor=fff&logoWidth=20) 
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=fff&logoWidth=20) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff&logoWidth=20) 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff&logoWidth=20) 
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=fff&logoWidth=20) 
-![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=flat&logo=chakraui&logoColor=fff&logoWidth=20)  
-
-### 🎨 Design & Visuals
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff&logoWidth=20) 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=fff&logoWidth=20)  
 
 
 ---
