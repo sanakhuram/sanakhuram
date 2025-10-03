@@ -2,7 +2,7 @@
 
 🎨 **Front-End Developer** | 🌱 **Constant Learner** | 🚀 **Creativity Enthusiast**
 
-Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web designs. I'm currently studying **Front-End Development** at **Noroff Education** and working on exciting projects that showcase my love for creative design and coding. Check out my portfolio below! 👇
+Welcome to my GitHub profile! I’m a **Front-End Developer** passionate about building beautiful and responsive web designs. I work on exciting projects that showcase my creativity and coding skills. Check out my portfolio below! 👇
 
 ---
 
@@ -15,10 +15,14 @@ Welcome to my GitHub profile! I'm passionate about building beautiful and respon
 ---
 
 ### 🌿 **Currently exploring:**
-- API integration with JavaScript  
-- Accessibility & inclusive design  
-- Component-based design systems  
-- **React.js** 💙 (super excited about building dynamic, interactive UIs!)
+- **React.js** 💙 – building dynamic, interactive UIs
+- **Next.js** – server-side rendering & static site generation
+- **TypeScript** – type-safe, maintainable code
+- **Tailwind CSS** – utility-first styling for fast, responsive design
+- **API Integration** – RESTful and third-party APIs
+- **Accessibility & Inclusive Design** – building for all users
+- **Component-based Design Systems** – reusable, scalable UI components
+- **Testing** 🧪 – Jest, React Testing Library, and Playwright for robust, reliable code
 
 ---
 
