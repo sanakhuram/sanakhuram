@@ -1,40 +1,18 @@
-<!-- Polygon gradient header -->
-<div style="
-  width: 100%;
-  height: 220px;
-  background: linear-gradient(120deg, #f7cac9, #92a8d1);
-  clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color: #fff;
-">
-  <h1 style="margin:0; font-size:3em;">🌷 Hi, I'm Sana!</h1>
-  <p style="margin:5px 0; font-size:1.2em;">🎨 Front-End Developer | 🌱 Constant Learner | 🚀 Creativity Enthusiast</p>
+
+<!-- Polygon header image -->
+<div style="width:100%; text-align:center;">
+ <img width="1581" height="480" alt="Polygon 1" src="https://github.com/user-attachments/assets/2e0e9e7f-1f21-4346-b68e-880a36715e3f" />
+</div>
+
+<!-- Intro text centered below -->
+<div style="text-align:center; margin-top:-150px; color:#fff;">
+  <h1>🌷 Hi, I'm Sana!</h1>
+  <p>🎨 Front-End Developer | 🌱 Constant Learner | 🚀 Creativity Enthusiast</p>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 </div>
 
 ---
 
-### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-ff69b4?style=flat&logo=appveyor&logoColor=fff)](https://skhuram.netlify.app/)
-
-
----
-
-### 🌿 **Currently exploring:**
-- **React.js** 💙 – building dynamic, interactive UIs
-- **Next.js** – server-side rendering & static site generation
-- **TypeScript** – type-safe, maintainable code
-- **Tailwind CSS** – utility-first styling for fast, responsive design
-- **API Integration** – RESTful and third-party APIs
-- **Accessibility & Inclusive Design** – building for all users
-- **Component-based Design Systems** – reusable, scalable UI components
-- **Testing** 🧪 – Jest, React Testing Library, and Playwright for robust, reliable code
-
----
 ### 💻 Front-End Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000&logoWidth=20) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff&logoWidth=20) 
