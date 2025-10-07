@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a **Front-End Developer** passionate about b
 [![favicon-32x32](https://github.com/user-attachments/assets/7a5977fe-ac13-4b81-93f2-1acb0188cf00)](https://skhuram.netlify.app/)  
 👉 https://skhuram.netlify.app/
 
-🌟 [New Year, New Goals!](https://newyear-resolutions.netlify.app/)
+🌟 [New Year, New Goals!](https://my-newyear-resolutions.netlify.app/)
 
 ---
 
