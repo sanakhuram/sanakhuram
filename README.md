@@ -14,7 +14,7 @@
 
 <div align="center" 
      style="background-color:#8B5E3C; color:#FFD580; font-size:1.2em; margin-bottom:15px; padding:10px 20px; border-radius:8px;">
-  ✨ 𝓣𝓾𝓻𝓷𝓲𝓷𝓰 𝓲𝓭𝓮𝓪𝓼 𝓲𝓷𝓽𝓸 𝓲𝓷𝓽𝓾𝓲𝓽𝓲𝓿𝓮 & 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝔀𝓮𝓫 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓼! dcddcd✨
+  ✨ 𝓣𝓾𝓻𝓷𝓲𝓷𝓰 𝓲𝓭𝓮𝓪𝓼 𝓲𝓷𝓽𝓸 𝓲𝓷𝓽𝓾𝓲𝓽𝓲𝓿𝓮 & 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝔀𝓮𝓫 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓼!✨
 </div>
 
 
