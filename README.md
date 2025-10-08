@@ -157,7 +157,7 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
 <br> <br>
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:1px;">
   <img src="https://github.com/user-attachments/assets/4defd648-6e17-453a-a537-30ac3d2dc5af" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/309a80fa-fc9b-4790-b41d-605f0820fc16" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/2034576c-722d-4cfc-b3e1-5155d6266675" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/8fc93a4a-52b5-4452-8899-8f32a54c600d" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/f4aecb6a-d575-4d47-a87c-4e69fa7e26bf" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/13ef7d86-28b3-46da-a7ed-b611f61959d5" width="50" height="50" />
@@ -171,6 +171,6 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
   <img src="https://github.com/user-attachments/assets/a9ec3d86-e5b8-4eb2-8a5b-ebd0311d865d" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/2034576c-722d-4cfc-b3e1-5155d6266675" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/7259db55-05ef-4acd-bea8-b89420b19d91" width="50" height="50" />
-   <img src="https://github.com/user-attachments/assets/309a80fa-fc9b-4790-b41d-605f0820fc16" width="50" height="50" />
+  
 </div>
 
