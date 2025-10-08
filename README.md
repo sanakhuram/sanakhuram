@@ -155,7 +155,7 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhuram&layout=compact&langs_count=6&hide_border=true&title_color=6B8E23&text_color=556B2F&icon_color=ADFF2F&bg_color=F5F5DC" height="150" alt="Top Languages" />
 </div>
 <br> <br>
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:4px;">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:2px;">
   <img src="https://github.com/user-attachments/assets/4defd648-6e17-453a-a537-30ac3d2dc5af" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/309a80fa-fc9b-4790-b41d-605f0820fc16" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/8fc93a4a-52b5-4452-8899-8f32a54c600d" width="50" height="50" />
