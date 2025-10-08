@@ -36,7 +36,7 @@
 <br> 
 <div align="center" 
   <p style="font-size:1.3em; margin:5px 0; line-height:2em; font-family:inherit;">
-    <strong>Front-End Developer</strong> soon graduating from <strong>Noroff School of Technology and Digital Media</strong>.  
+    I am a <strong>Front-End Developer</strong> soon graduating from <strong>Noroff School of Technology and Digital Media</strong>.  
     I’ve completely swapped paints, inks and pencils for a keyboard, diving headfirst into coding.  
     I’m driven by curiosity and passion, I feel my journey has just begun, and I’m eager to explore, experiment, and push beyond what I know.  
     Every project is a new challenge, and I’m excited to keep growing, building, and creating digital experiences that are intuitive, engaging, and a joy for users.
