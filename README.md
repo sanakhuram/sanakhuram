@@ -154,7 +154,10 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhuram&layout=compact&langs_count=6&hide_border=true&title_color=6B8E23&text_color=556B2F&icon_color=ADFF2F&bg_color=F5F5DC" height="150" alt="Top Languages" />
 </div>
-
+<!-- Profile Views Badge -->
+<div align="center" style="margin-top:20px;">
+  <img src="https://komarev.com/ghpvc/?username=sanakhuram&style=flat&color=556B2F&label=Profile%20Views" alt="Profile Views" height="30"/>
+</div>
 <br>
 
 ---
@@ -178,4 +181,6 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
   <img src="https://github.com/user-attachments/assets/7259db55-05ef-4acd-bea8-b89420b19d91" width="50" height="50" />
   
 </div>
+
+
 
