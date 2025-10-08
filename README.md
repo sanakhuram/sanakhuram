@@ -164,24 +164,15 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
 ---
 
 <br>
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:1px;">
-  <img src="https://github.com/user-attachments/assets/4defd648-6e17-453a-a537-30ac3d2dc5af" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/2034576c-722d-4cfc-b3e1-5155d6266675" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/8fc93a4a-52b5-4452-8899-8f32a54c600d" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/f4aecb6a-d575-4d47-a87c-4e69fa7e26bf" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/13ef7d86-28b3-46da-a7ed-b611f61959d5" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/a5a0b0dd-bdc9-41bd-89bd-052dc201e677" width="50" height="50" />
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/a5a0b0dd-bdc9-41bd-89bd-052dc201e677" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/d5605a51-5260-4ae4-a130-b9997107b835" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/1fdb6817-9424-40c1-9e08-f797b261aa96" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/cbc8c9a6-fa86-4778-bac2-791966700fd0" width="50" height="50" />
  <img src="https://github.com/user-attachments/assets/fcde22eb-8e7c-4892-b686-4e7c11a8139a" width="50" height="50" />
   <img src="https://github.com/user-attachments/assets/8a8a8be4-04de-4236-b728-fe44818abc35" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/db3581b9-cede-48bd-88ba-3640901ef82a" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/a9ec3d86-e5b8-4eb2-8a5b-ebd0311d865d" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/2034576c-722d-4cfc-b3e1-5155d6266675" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/7259db55-05ef-4acd-bea8-b89420b19d91" width="50" height="50" />
-  
-</div>
+</p>
+
 
 
 
