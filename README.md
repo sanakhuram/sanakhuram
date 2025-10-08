@@ -161,21 +161,14 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhuram&layout=compact&langs_count=6&hide_border=true&title_color=556B2F&text_color=556B2F&icon_color=8B5E3C&bg_color=F5F5DC" height="140" alt="Top Languages" />
 </div>
+<br>
 
-<!-- Extra Stats Badges -->
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin-bottom:20px;">
-  <img src="https://img.shields.io/badge/Commits-1059-556B2F?style=flat-square&logo=git&logoColor=fff" alt="Commits" />
-  <img src="https://img.shields.io/badge/Repositories-34-8B5E3C?style=flat-square&logo=github&logoColor=fff" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Pull_Requests-17-FFA500?style=flat-square&logo=github&logoColor=fff" alt="Pull Requests" />
-  <img src="https://img.shields.io/badge/Issues-99-CD853F?style=flat-square&logo=github&logoColor=fff" alt="Issues" />
-  <img src="https://img.shields.io/badge/Profile_Views-148-DEB887?style=flat-square&logo=github&logoColor=fff" alt="Profile Views" />
-</div>
+<!-- Profile Views Badge -->
+<div align="center" style="margin-top:20px;">
+  <img src="https://komarev.com/ghpvc/?username=sanakhuram&style=flat&color=556B2F&label=Profile%20Views" alt="Profile Views" height="30"/>
+<div/>
 
-<!-- Optional Streak Stats -->
-<div align="center" style="margin-bottom:30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanakhuram&theme=green-forest&hide_border=true" alt="GitHub Streak" />
-</div>
-
+  
 ---
 
 <br>
