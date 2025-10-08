@@ -86,8 +86,7 @@
 <div style="border:1px solid #ccc; border-radius:12px; padding:20px; background-color:#F5F5F5; box-shadow:0 4px 8px rgba(0,0,0,0.05);">
   <h2 style="margin-bottom:10px; color:#8A2BE2;"><img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/b3820fee-1d3f-4896-8e8e-7b5a2cd140d4" />
 <a href="https://holidaze-green.vercel.app/" target="_blank">Holidaze</a></h2>
-  <p>A fully responsive accommodation booking platf![Uploading favicon-32x32.png…]()
-orm with venue creation, booking flows, and dark mode. Built to give users a seamless experience when browsing and booking venues.</p>
+  <p>A fully responsive accommodation booking platform with venue creation, booking flows, and dark mode. Built to give users a seamless experience when browsing and booking venues.</p>
   <div style="margin-top:10px; display:flex; flex-wrap:wrap; gap:8px;">
     <img src="https://img.shields.io/badge/Next.js-FF8C00?style=flat&logo=next.js&logoColor=fff" height="25" />
     <img src="https://img.shields.io/badge/React-ADFF2F?style=flat&logo=react&logoColor=000" height="25" />
