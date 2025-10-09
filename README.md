@@ -28,7 +28,7 @@
 <div align="center" style="margin-bottom: 40px;">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
   <br>
-  <a href="https://sanakhuram.netlify.app/" style="text-decoration:none;">
+  <a href="https://sanakhm.netlify.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Visit%20Portfolio-FFA500?style=flat&logo=appveyor&logoColor=fff" alt="Portfolio">
   </a>
 </div>
@@ -140,7 +140,7 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
   <a href="https://www.instagram.com/sana_khuram?igsh=MTBneHhvd2d2eXB2dg==">
     <img src="https://img.shields.io/badge/Instagram-ADFF2F?style=flat&logo=instagram&logoColor=fff" height="30"/>
   </a>
-  <a href="https://sanakhuram.netlify.app/">
+  <a href="https://sanakhm.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-DEB887?style=flat&logo=appveyor&logoColor=fff" height="30"/>
   </a>
 </div>
