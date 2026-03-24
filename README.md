@@ -20,7 +20,7 @@
 
 <!-- Currently Learning -->
 <div align="center" style="color:#556B2F; font-size:1.1em; margin-bottom: 30px; font-family:'Segoe UI', sans-serif; font-weight:500;">
-   🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴: <strong>Advanced Next.js features, Framer Motion animations, & General Testing</strong> (Playwright, Jest, Vitest). 🌱
+   🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴: <strong>Node.js, APIs, & Backend Architecture</strong>  🌱
 </div>
 
 
@@ -35,11 +35,13 @@
 
 <br> 
 <div align="center" 
-  <p style="font-size:1.3em; margin:5px 0; line-height:2em; font-family:inherit;">
-    I am a <strong>Front-End Developer</strong> graduated from <strong>Noroff School of Technology and Digital Media</strong> now diving deeper into <strong>Back-End Development</strong> to grow into a full-stack professional.I’ve completely swapped paints, inks and pencils for a keyboard, diving headfirst into coding.  
-    I’m driven by curiosity and passion, I feel my journey has just begun, and I’m eager to explore, experiment, and push beyond what I know.  
-    Every project is a new challenge, and I’m excited to keep growing, building, and creating digital experiences that are intuitive, engaging, and a joy for users.
-  </p>
+<p style="font-size:1.3em; margin:5px 0; line-height:2em; font-family:inherit;">
+  I am a <strong>Front-End Developer</strong> graduated from <strong>Noroff School of Technology and Digital Media</strong>, currently expanding into <strong>Back-End Development</strong> to grow into a full-stack developer.  
+  With a background in art and design, I bring a strong focus on creating clean, intuitive, and user-centered digital experiences.  
+  I work with <strong>React, Next.js, and TypeScript</strong>, and enjoy building responsive interfaces, animations, and well-structured applications.  
+  I am continuously learning, exploring new technologies, and aiming to build products that are both functional and engaging for users.
+  ✨ From miniature paintings to modern web interfaces — still creating, just on a different canvas.
+</p>
   <br><br>
  ✨ 𝔀𝔥𝔢𝔫 𝔫𝔬𝔱 𝔠𝔬𝔡𝔦𝔫𝔤: 𝔰𝔦𝔭𝔭𝔦𝔫𝔤 𝔠𝔬𝔣𝔣𝔢𝔢 ☕, 𝔭𝔞𝔦𝔫𝔱𝔦𝔫𝔤 𝔪𝔦𝔫𝔦𝔞𝔱𝔲𝔯𝔢𝔰 🎨, 𝔡𝔬𝔬𝔡𝔩𝔦𝔫𝔤 𝔤𝔬𝔡𝔰 & 𝔤𝔬𝔡𝔡𝔢𝔰𝔰𝔢𝔰 🍃, 𝔢𝔫𝔧𝔬𝔶𝔦𝔫𝔤 𝔖𝔲𝔣𝔦 & 𝔠𝔬𝔲𝔫𝔱𝔯𝔶 𝔪𝔲𝔰𝔦𝔠 🎵, 𝔯𝔢𝔞𝔡𝔦𝔫𝔤 𝔭𝔬𝔢𝔱𝔯𝔶 📜, 𝔬𝔯 𝔴𝔞𝔱𝔠𝔥𝔦𝔫𝔤 𝔥𝔬𝔯𝔯𝔬𝔯 𝔰𝔢𝔯𝔦𝔢𝔰 👻 🍃 ✨
 </div>
