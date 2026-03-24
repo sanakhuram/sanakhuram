@@ -34,16 +34,16 @@
 </div>
 
 <br> 
-<div align="center" 
-<p style="font-size:1.3em; margin:5px 0; line-height:2em; font-family:inherit;">
-  I am a <strong>Front-End Developer</strong> graduated from <strong>Noroff School of Technology and Digital Media</strong>, currently expanding into <strong>Back-End Development</strong> to grow into a full-stack developer.  
-  With a background in art and design, I bring a strong focus on creating clean, intuitive, and user-centered digital experiences.  
-  I work with <strong>React, Next.js, and TypeScript</strong>, and enjoy building responsive interfaces, animations, and well-structured applications.  
-  I am continuously learning, exploring new technologies, and aiming to build products that are both functional and engaging for users.
-  ✨ From miniature paintings to modern web interfaces — still creating, just on a different canvas.
-</p>
+<div align="center">
+  <p style="font-size:1.3em; margin:5px 0; line-height:2em; font-family:inherit;">
+    I am a <strong>Front-End Developer</strong> graduated from <strong>Noroff School of Technology and Digital Media</strong>, currently expanding into <strong>Back-End Development</strong> to grow into a full-stack developer.  
+    With a background in art and design, I bring a strong focus on creating clean, intuitive, and user-centered digital experiences.  
+    I work with <strong>React, Next.js, and TypeScript</strong>, and enjoy building responsive interfaces, animations, and well-structured applications.  
+    I am continuously learning, exploring new technologies, and aiming to build products that are both functional and engaging for users.  
+    ✨ From miniature paintings to modern web interfaces — still creating, just on a different canvas.
+  </p>
   <br><br>
- ✨ 𝔀𝔥𝔢𝔫 𝔫𝔬𝔱 𝔠𝔬𝔡𝔦𝔫𝔤: 𝔰𝔦𝔭𝔭𝔦𝔫𝔤 𝔠𝔬𝔣𝔣𝔢𝔢 ☕, 𝔭𝔞𝔦𝔫𝔱𝔦𝔫𝔤 𝔪𝔦𝔫𝔦𝔞𝔱𝔲𝔯𝔢𝔰 🎨, 𝔡𝔬𝔬𝔡𝔩𝔦𝔫𝔤 𝔤𝔬𝔡𝔰 & 𝔤𝔬𝔡𝔡𝔢𝔰𝔰𝔢𝔰 🍃, 𝔢𝔫𝔧𝔬𝔶𝔦𝔫𝔤 𝔖𝔲𝔣𝔦 & 𝔠𝔬𝔲𝔫𝔱𝔯𝔶 𝔪𝔲𝔰𝔦𝔠 🎵, 𝔯𝔢𝔞𝔡𝔦𝔫𝔤 𝔭𝔬𝔢𝔱𝔯𝔶 📜, 𝔬𝔯 𝔴𝔞𝔱𝔠𝔥𝔦𝔫𝔤 𝔥𝔬𝔯𝔯𝔬𝔯 𝔰𝔢𝔯𝔦𝔢𝔰 👻 🍃 ✨
+  ✨ 𝔀𝔥𝔢𝔫 𝔫𝔬𝔱 𝔠𝔬𝔡𝔦𝔫𝔤: 𝔰𝔦𝔭𝔭𝔦𝔫𝔤 𝔠𝔬𝔣𝔣𝔢𝔢 ☕, 𝔭𝔞𝔦𝔫𝔱𝔦𝔫𝔤 𝔪𝔦𝔫𝔦𝔞𝔱𝔲𝔯𝔢𝔰 🎨, 𝔡𝔬𝔬𝔡𝔩𝔦𝔫𝔤 𝔤𝔬𝔡𝔰 & 𝔤𝔬𝔡𝔡𝔢𝔰𝔰𝔢𝔰 🍃, 𝔢𝔫𝔧𝔬𝔶𝔦𝔫𝔤 𝔖𝔲𝔣𝔦 & 𝔠𝔬𝔲𝔫𝔱𝔯𝔶 𝔪𝔲𝔰𝔦𝔠 🎵, 𝔯𝔢𝔞𝔡𝔦𝔫𝔤 𝔭𝔬𝔢𝔱𝔯𝔶 📜, 𝔬𝔯 𝔴𝔞𝔱𝔠𝔥𝔦𝔫𝔤 𝔥𝔬𝔯𝔯𝔬𝔯 𝔰𝔢𝔯𝔦𝔢𝔰 👻 🍃 ✨
 </div>
 
 ---
