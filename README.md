@@ -5,6 +5,7 @@
 
 <!-- Intro text centered over header -->
 <div align="center" style="color:#FFF8F0; margin-bottom: 20px; font-weight:500;">
+  <br>
   <p style="font-size:1.3em; margin:5px 0;">
     🎨 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 🌱 𝗖𝗼𝗻𝘀𝘁𝗮𝗻𝘁 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | 💡 𝗨𝘀𝗲𝗿-𝗖𝗲𝗻𝘁𝗿𝗶𝗰 | 🚀 𝗦𝗲𝗲𝗸𝗶𝗻𝗴 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
   </p>
@@ -49,8 +50,19 @@
 ---
 
 <!-- Tech Stack -->
-<h1 align="center"><img width="32" height="32" alt="2358638 1" src="https://github.com/user-attachments/assets/411c3781-30e7-4c60-9c4d-9427dd6a0b8c" />
- Tech Stack <img width="32" height="32" alt="2358638 1" src="https://github.com/user-attachments/assets/411c3781-30e7-4c60-9c4d-9427dd6a0b8c" /></h1>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <img width="32" height="32" src="https://github.com/user-attachments/assets/411c3781-30e7-4c60-9c4d-9427dd6a0b8c" />
+    </td>
+    <td align="center" style="border:none; padding: 0 10px;">
+      <h1 style="margin:0;">Tech Stack</h1>
+    </td>
+    <td align="center" style="border:none;">
+      <img width="32" height="32" src="https://github.com/user-attachments/assets/411c3781-30e7-4c60-9c4d-9427dd6a0b8c" />
+    </td>
+  </tr>
+</table>
 <div align="center" style="max-width:600px; margin:10px auto 25px auto; display:flex; flex-wrap:wrap; justify-content:center; border:1px solid #ccc; border-radius:20px;">
   <img src="https://img.shields.io/badge/-React-6B8E23?style=for-the-badge&logo=react&logoColor=fff&rounded=true" />
   <img src="https://img.shields.io/badge/-Next.js-8FBC8F?style=for-the-badge&logo=next.js&logoColor=fff&rounded=true" />
@@ -71,17 +83,25 @@
   <img src="https://img.shields.io/badge/-Canva-D2691E?style=for-the-badge&logo=canva&logoColor=fff&rounded=true" />
 </div>
 
-
+---
 
 <br><br>
 <div style="border-top:1px solid #ccc; margin:30px 0;"></div>
 
 <!-- Featured Projects -->
-<h1 align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+     <td align="center" style="border:none;">
   <img width="32" height="32" alt="design" src="https://github.com/user-attachments/assets/e526a1b0-049a-418f-beed-5a9c5a31f246" /> 
-  Featured Projects 
+    </td>
+    <td align="center" style="border:none; padding: 0 10px;">
+      <h1 style="margin:0;">Featured Projects</h1>
+    </td> 
+     <td align="center" style="border:none;">
   <img width="32" height="32" alt="design" src="https://github.com/user-attachments/assets/e526a1b0-049a-418f-beed-5a9c5a31f246" />
-</h1>
+    </td>
+  </tr>
+</table>
 
 <!-- Holidaze Project -->
 <div style="border:1px solid #ccc; border-radius:12px; padding:20px; background-color:#F5F5F5; box-shadow:0 4px 8px rgba(0,0,0,0.05);">
@@ -127,10 +147,24 @@
 </div>
 
 <br><br>
+
+---
+
 <!-- Connect Section -->
-<h1 align="center"><img width="32" height="32" alt="2358639 2" src="https://github.com/user-attachments/assets/23ca3970-ce07-4ed4-aa75-8f72761c9a79" />
-Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.com/user-attachments/assets/23cf04ff-8ffb-4ec6-880c-cf4c1c153160" />
- </h1>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+  <img width="32" height="32" alt="2358639 2" src="https://github.com/user-attachments/assets/23ca3970-ce07-4ed4-aa75-8f72761c9a79" />
+       </td>
+    <td align="center" style="border:none; padding: 0 10px;">
+ <h1 style="margin:0;"> Connect with Me </h1>
+      </td>
+    <td align="center" style="border:none;">
+  <img width="32" height="32" alt="2358639 2" src="https://github.com/user-attachments/assets/23ca3970-ce07-4ed4-aa75-8f72761c9a79" />
+    </td>
+  </tr>
+</table>
+
 <div align="center" style="margin-bottom:30px; display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
   <a href="mailto:sana.khuram.baig@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFA500?style=flat&logo=gmail&logoColor=fff" height="30"/>
@@ -146,40 +180,19 @@ Connect with Me<img width="32" height="32" alt="2358639 2" src="https://github.c
   </a>
 </div>
 
-<br><br>
-
-<!-- GitHub Stats Section -->
-<h1 align="center">
-  <img width="32" height="32" alt="stats" src="https://github.com/user-attachments/assets/c08eda45-f904-4c5d-bb31-9297c0b506ac" />
-  My GitHub Stats
-  <img width="32" height="32" alt="stats" src="https://github.com/user-attachments/assets/c08eda45-f904-4c5d-bb31-9297c0b506ac" />
-</h1>
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-bottom:15px;">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sanakhuram&show_icons=true&count_private=true&hide_border=true&show_rank=false&title_color=556B2F&text_color=556B2F&icon_color=8B5E3C&bg_color=F5F5DC" height="140" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhuram&layout=compact&langs_count=6&hide_border=true&title_color=556B2F&text_color=556B2F&icon_color=8B5E3C&bg_color=F5F5DC" height="140" alt="Top Languages" />
-</div>
 <br>
 
-<!-- Profile Views Badge -->
-<div align="center" style="margin-top:20px;">
-  <img src="https://komarev.com/ghpvc/?username=sanakhuram&style=flat&color=556B2F&label=Profile%20Views" alt="Profile Views" height="30"/>
-<div/>
-
-  
----
-
-<br>
 <p align="center">
- <img src="https://github.com/user-attachments/assets/a5a0b0dd-bdc9-41bd-89bd-052dc201e677" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/d5605a51-5260-4ae4-a130-b9997107b835" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/1fdb6817-9424-40c1-9e08-f797b261aa96" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/cbc8c9a6-fa86-4778-bac2-791966700fd0" width="50" height="50" />
- <img src="https://github.com/user-attachments/assets/fcde22eb-8e7c-4892-b686-4e7c11a8139a" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/8a8a8be4-04de-4236-b728-fe44818abc35" width="50" height="50" />
+  <table align="center">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/a5a0b0dd-bdc9-41bd-89bd-052dc201e677" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/d5605a51-5260-4ae4-a130-b9997107b835" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/1fdb6817-9424-40c1-9e08-f797b261aa96" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/cbc8c9a6-fa86-4778-bac2-791966700fd0" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/fcde22eb-8e7c-4892-b686-4e7c11a8139a" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/8a8a8be4-04de-4236-b728-fe44818abc35" width="50" height="50" /></td>
+    </tr>
+  </table>
 </p>
 
 
